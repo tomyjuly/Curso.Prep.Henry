@@ -1,0 +1,10 @@
+
+git clone https://github.com/tomyjuly/Curso.Prep.Henry.git
+git status
+git commit -m 'descripción'
+git log
+git add .
+git push origin master
+
+
+
